@@ -1,1 +1,2 @@
-gremio vai ser tetra da liberta!
+// Teste deconsole
+console.log("Renato Gaúcho");
